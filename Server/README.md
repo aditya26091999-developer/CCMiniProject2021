@@ -1,0 +1,1 @@
+This folder has Server(Back-end) code for the project.

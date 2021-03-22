@@ -1,0 +1,1 @@
+This folder has Client(Front-end) code for the project.
